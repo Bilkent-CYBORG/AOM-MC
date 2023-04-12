@@ -1,9 +1,9 @@
 
 # Online Context-Aware Task Assignment in Mobile Crowdsourcing via Adaptive Discretization  
   
-This repository is the official implementation of Online Context-Aware Task Assignment in Mobile Crowdsourcing via Adaptive Discretization, published at [IEEE TNSE](https://ieeexplore.ieee.org/document/9894096).  
-## Requirements  
-  f
+This repository is the official implementation of Online Context-Aware Task Assignment in Mobile Crowdsourcing via Adaptive Discretization, published at [IEEE TNSE](https://ieeexplore.ieee.org/document/9894096). 
+
+## Requirements
 To install requirements:  
   
 ```setup  
